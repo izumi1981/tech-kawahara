@@ -4,8 +4,8 @@ import heroPic from "../public/images/banner.png"
 import profilePic from "../public/images/mono.png"
 
 export const metadata = {
-    title: "Abe Hiroki",
-    description: "Abe Hirokiのポートフォリオサイトです",
+    title: "tech kawahara",
+    description: "tech kawaharaは技術ブログです。",
 }
 
 const Index = () => {
